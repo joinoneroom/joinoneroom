@@ -1,0 +1,25 @@
+/*
+
+   LINKS
+
+*/
+
+.link {
+  text-decoration: none;
+  transition: all .4s;
+}
+
+.link:link    { color: $aqua; }
+.link:visited { color: $aqua; }
+.link:hover   { color: $blue; }
+.link:active  { color: $blue; }
+
+.underline { text-decoration: underline; }
+.underline-hover:hover { text-decoration: underline; }
+
+.link-blue,
+.link-blue:link { color: $blue; }
+.link-blue:hover { color: $dark-blue; }
+
+
+.link-gray { color: $silver; }

@@ -1,0 +1,32 @@
+// Adam would never approve, but using @extend is the easiest way to get the
+// stylings we need on the elements that are added automatically by MailChimp.
+// These selectors are taken directly from here:
+// http://kb.mailchimp.com/lists/signup-forms/css-hooks-for-customizing-forms
+
+#mce-responses {
+  @extend .serif;
+  @extend .f5;
+
+  a {
+    @extend .link;
+  }
+}
+
+#mce-success-response {
+  @extend .green;
+}
+
+#mce-error-response {
+  @extend .orange;
+}
+
+div.mce_inline_error {
+  @extend .serif;
+  @extend .f5;
+  @extend .orange;
+}
+
+input.mce_inline_error,
+textarea.mce_inline_error {
+  @extend .b--orange;
+}

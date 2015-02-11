@@ -1,0 +1,56 @@
+/*
+
+   SKINS
+
+*/
+
+.black { color: $black; }
+.near-black { color: $near-black; }
+.dark-gray { color: $dark-gray; }
+.mid-gray { color: $mid-gray; }
+.silver { color: $silver; }
+.light-silver { color: $light-silver; }
+.light-gray { color: $light-gray; }
+.lightest-gray { color: $lightest-gray; }
+.near-white { color: $near-white; }
+.white { color: $white; }
+.gray { color: $gray; }
+.blue { color: $blue; }
+.orange { color: $orange; }
+.green { color: $green; }
+.aqua { color: $aqua; }
+.dark-blue { color: $dark_blue; }
+
+.bg-black { background-color: $black; }
+.bg-near-black { background-color: $near-black; }
+.bg-dark-gray { background-color: $dark-gray; }
+.bg-mid-gray { background-color: $mid-gray; }
+.bg-silver { background-color: $silver; }
+.bg-light-silver { background-color: $light-silver; }
+.bg-light-gray { background-color: $light-gray; }
+.bg-lightest-gray { background-color: $lightest-gray; }
+.bg-near-white { background-color: $near-white; }
+.bg-white { background-color: $white; }
+.bg-gray { background-color: $gray; }
+.bg-blue { background-color: $blue; }
+.bg-orange { background-color: $orange; }
+.bg-green { background-color: $green; }
+.bg-aqua { background-color: $aqua; }
+.bg-aqua-light { background-color: lighten($aqua, 35%); }
+.bg-dark-blue { background-color: $dark_blue; }
+
+
+.dim { color: white; border-color: white; transition: border-color .15s ease-in, color .15s ease-in; }
+.dim:link { color: white; border-color: white; transition: border-color .15s ease-in, color .15s ease-in; }
+.dim:visited { color: white; border-color: white; transition: border-color .15s ease-out, color .15s, ease-out; }
+.dim:hover { color: rgba(255,255,255,.4);border-color: rgba(255,255,255,.4); transition: border-color .1s ease-in, color .1s ease-in; }
+.dim:active,
+.dim:focus { color:rgba(255,255,255,.6); border-color: rgba(255,255,255,.8); transition: border-color .1s ease-out, color .1s ease-out; }
+
+.fade,
+.fade:link { opacity:1;  transition: opacity .15s ease-in; }
+.fade:visited { opacity:1; transition: opacity .15s ease-out; }
+.fade:hover { opacity: 0.6; transition: opacity .1s ease-in; }
+.fade:active,
+.fade:focus { opacity: 0.8; transition: opacity .1s ease-out; }
+
