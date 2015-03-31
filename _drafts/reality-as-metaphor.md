@@ -1,6 +1,8 @@
 ---
 title: Reality is our metaphor
 layout: post
+author: Scott Forman
+
 ---
 
 At OneRoom, we're building a live video online classroom. And we're trying to make it feel _good_ to be "in" that classroom. 

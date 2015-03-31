@@ -11,11 +11,11 @@
       <p class="dib"><a class="link phs" href="/writing.html">For Writing Teachers</a></p>
     {% endif %}
 
-    <!--{% if page.title == "blog" %}-->
-      <!--<p class="dib under"><a class="link phs" href="#">Blog</a></p>-->
-    <!--{% else %}-->
-      <!--<p class="dib"><a class="link phs" href="/blog.html">Blog</a></p>-->
-    <!--{% endif %}-->
+    {% if page.title == "blog" %}
+      <p class="dib under"><a class="link phs" href="#">Blog</a></p>
+    {% else %}
+      <p class="dib"><a class="link phs" href="/blog.html">Blog</a></p>
+    {% endif %}
 
     {% if page.title == "about" %}
       <p class="dib under"><a class="link phs" href="#">About</a></p>
