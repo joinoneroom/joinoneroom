@@ -4,16 +4,18 @@ title: blog
 ---
 
 {% include smallheader.html %}
-{% include navbar.html %}
 
-<div class="b--light-gray bw4 tl-ns fw1 f3 mw7 center f4 mid-gray pal">
+<div class="tl-ns fw1 f3 mw7 center f4 mid-gray pal">
   {% for post in site.posts %}
-  <h1><a class="link" href="{{ post.url }}">{{ post.title }}</a></h1>
-  <div class="lh">
-    <p>{{ post.author }} &middot; {{ post.date | date: "%B %-d, %Y" }}</p>
-  </div>
-  <div class="lh-copy pts">
-    {{ post.excerpt }}
+  <div class="b--light-gray bb-l mtl pal">
+    <h1><a class="link" href="{{ post.url }}">{{ post.title }}</a></h1>
+    <div class="lh">
+      <img class="img mw2 v-mid box br-circ ba bw1 bw0-ns b--near-white mrm" src="/img/{{ post.image }}"></img>
+      <p class="dib v-mid">{{ post.author }} &middot; {{ post.date | date: "%B %-d, %Y" }}</p>
+    </div>
+    <div class="lh-copy pts">
+      {{ post.excerpt }}
+    </div>
   </div>
   {% endfor %}
 </div>

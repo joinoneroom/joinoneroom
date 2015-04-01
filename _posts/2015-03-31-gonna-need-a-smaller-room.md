@@ -1,8 +1,8 @@
 ---
 title: We're gonna need a smaller room
 layout: post
-author: Scott Forman
-
+image: scott.png
+author: Scott
 ---
 
 Greetings! As a first post on the OneRoom blog, I thought I’d share a little of the story of how we got interested in humanizing online learning, and why we think it’s important.
