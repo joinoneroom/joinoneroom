@@ -1,0 +1,20 @@
+/*
+
+Some styles specifically for posts, because there's no obvious way
+in Jekyll to apply classes to internal content rendered from markdown. 
+
+ */
+
+.post {
+
+  a {
+    text-decoration: none;
+    transition: all .4s;
+    color: $aqua; 
+  }
+
+  a:visited { color: $aqua; }
+  a:hover   { color: $blue; }
+  a:active  { color: $blue; }
+
+}
