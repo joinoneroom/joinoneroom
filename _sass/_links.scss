@@ -14,12 +14,21 @@
 .link:hover   { color: $blue; }
 .link:active  { color: $blue; }
 
+.link-reverse {
+  text-decoration: none;
+  transition: all .4s;
+}
+
+.link-reverse:link    { color: $white; }
+.link-reverse:visited { color: $white; }
+.link-reverse:hover   { color: $near-white; }
+.link-reverse:active  { color: $near-white; }
+
 .underline { text-decoration: underline; }
 .underline-hover:hover { text-decoration: underline; }
 
 .link-blue,
 .link-blue:link { color: $blue; }
 .link-blue:hover { color: $dark-blue; }
-
 
 .link-gray { color: $silver; }

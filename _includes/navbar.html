@@ -1,25 +1,19 @@
 <nav class="center mw7 phm phl-ns pvxs fw4 tc">
-    {% if page.title == "home" %}
-      <p class="dib under"><a class="link phs" class="link phs" href="#">Home</a></p>
-    {% else %}
-      <p class="dib"><a class="link phs" class="link phs" href="/">Home</a></p>
-    {% endif %}
-
     {% if page.title == "writing" %}
-      <p class="dib under"><a class="link phs" href="#">For Writing Teachers</a></p>
+      <p class="dib under"><a class="link-reverse phs" href="#">For Writing Teachers</a></p>
     {% else %}
-      <p class="dib"><a class="link phs" href="/writing.html">For Writing Teachers</a></p>
+      <p class="dib"><a class="link-reverse phs" href="/writing.html">For Writing Teachers</a></p>
     {% endif %}
 
-    <!--{% if page.title == "blog" %}-->
-      <!--<p class="dib under"><a class="link phs" href="#">Blog</a></p>-->
-    <!--{% else %}-->
-      <!--<p class="dib"><a class="link phs" href="/blog.html">Blog</a></p>-->
-    <!--{% endif %}-->
+    {% if page.title == "blog" %}
+      <p class="dib under"><a class="link-reverse phs" href="#">Blog</a></p>
+    {% else %}
+      <p class="dib"><a class="link-reverse phs" href="/blog.html">Blog</a></p>
+    {% endif %}
 
     {% if page.title == "about" %}
-      <p class="dib under"><a class="link phs" href="#">About</a></p>
+      <p class="dib under"><a class="link-reverse phs" href="#">About</a></p>
     {% else %}
-      <p class="dib"><a class="link phs" href="/about.html">About</a></p>
+      <p class="dib"><a class="link-reverse phs" href="/about.html">About</a></p>
     {% endif %}
 </nav>
