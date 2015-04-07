@@ -3,7 +3,6 @@ title: You're gonna need a smaller room
 layout: post
 author: Scott Forman
 image: scott.png
-
 ---
 
 Greetings! As a first post on the OneRoom blog, I thought I’d share a little of the story of how we got interested in humanizing online learning, and why we think it’s important.
@@ -27,15 +26,15 @@ There's an obvious answer with a long precedent: we could make the room _smaller
 
 Jeff and I resolved to bring the discussion section (or the "seminar," or whatever you might call it) online. But we weren't sure how it would feel. Will people show up? Will it feel as warm, intimate, and connected as we wanted it to?  How do we even do something like this? 
 
-To find out, we conducted some experiments. First, we organized a Google Hangout-based seminar about exobiology and the origin of life. We found a qualified instructor on Craigslist and inveigled some friends into attending. We did 3 sessions. It worked out...ok. But not great. The experience and knowledge of the participants was too widely disparate to sustain a particularly engaging conversation. Also, we weren't sure if students would pay for this kind of thing. Or even show up without the, you know, haranguing. We also had some interesting technology glitches: 
+To find out, we conducted some experiments. First, we organized a Google Hangout-based seminar about exobiology and the origin of life. We found a qualified instructor on Craigslist and cajoled some friends into attending. We did 3 sessions. It worked out...ok. But not great. The experience and knowledge of the participants was too widely disparate to sustain a particularly engaging conversation. Also, we weren't sure if students would pay for this kind of thing. Or even show up without the, you know, haranguing. We also had some interesting technology glitches: 
 
 ![kristjan's busted screenshot](/img/blog/kristjan-busted.png)
 
-So we tried again, with a different teacher and some [Shakespeare enthusiasts from Santa Fe](http://www.meetup.com/SFSCloseReaders/) we found through Meetup.com. We did four sessions close-reading Shakespeare. This time it felt different. There were moments of real engagement that would have been simply impossible without the real-time discussion and live video. We didn't ask anyone to pay up-front, but almost everyone chose to make a voluntary contribution to the teacher at the end. At the end, we felt like we had really gotten to know these people, and would remember them. Here's what it looked like:
+So we tried again, with a different teacher and some [Shakespeare enthusiasts from Santa Fe](http://www.meetup.com/SFSCloseReaders/) we found through Meetup.com. We did four sessions close-reading Shakespeare. This time it felt different. There were moments of real engagement that would have been simply impossible without the real-time discussion and live video. We didn't ask anyone to pay up-front, but almost everyone chose to make a voluntary contribution to the teacher at the end. Here's what it looked like:
 
 ![shakespeare - not bad](/img/blog/shakespeare.png)
 
-There was other evidence - [The Minerva Project](https://minerva.kgi.edu/), for instance - was about to start their first semester, all online, all seminar-style. But seeing that Shakespeare class with our own eyes, and hearing the instructors response - 
+There was other evidence - [The Minerva Project](https://minerva.kgi.edu/), for instance - was about to start their first semester, all online, all seminar-style. But the key thing for us was seeing that Shakespeare class with our own eyes, and hearing the instructor's response - 
 
 > This is making me want to teach online...I’m convinced that one can actually create a usable learning environment with the right technology.
 
