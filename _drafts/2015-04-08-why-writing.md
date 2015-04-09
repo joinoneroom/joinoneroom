@@ -5,7 +5,7 @@ author: Scott Forman
 image: scott.png
 ---
 
-When we started talking about the challenge of humanizing online learning, we struggled with the scope of that challenge. It felt compelling and important, but it also seemed dauntingly…vague. 
+When we started talking about what it would mean to humanize online learning, we struggled with the scope of that challenge. It felt compelling and important, but it also seemed dauntingly…vague. 
 
 As enthusiasts for the ideas of the [Lean Startup](http://en.wikipedia.org/wiki/Lean_startup) movement, our greatest fear was building something that no one would use. We’re convinced that it’s possible to build a product-centered “horizontal” business - solving a common problem across many disciplines - but we also felt the need to have a clear picture of who this was _for_. 
 
@@ -35,9 +35,9 @@ There’s plenty of opportunity for caricature and satire in this. One of my fav
 
 [![New York is memoir country](/img/blog/memoir-country.png)](http://www.condenaststore.com/-sp/New-York-is-Memoir-Country-New-Yorker-Cartoon-Prints_i8544107_.htm)
 
-I also recently followed and are consistently amused by [@guyinyourMFA](https://twitter.com/guyinyourmfa).
+I also recently followed and am consistently amused by [@guyinyourMFA](https://twitter.com/guyinyourmfa).
 
-Still, I think, at heart, there’s something real and significant about the need to express ourselves in written words. It transcends the much-discussed demise of the publishing industry. Writing is important, it’s also _hard_ and _lonely_, and difficult to keep at it. That’s why people seek out workshops. 
+Still, there’s something real and significant about the need to express ourselves in written words. It transcends the much-discussed demise of the publishing industry. Writing is important, it’s also _hard_ and _lonely_, and difficult to keep at it. That’s why people seek out workshops. 
 
 There’s a passage from a Richard Hugo essay called “In Defense of Creative-Writing Classes” that our friends at the (wonderful) [Hugo House](http://hugohouse.org/) in Seattle shared with me: 
 
