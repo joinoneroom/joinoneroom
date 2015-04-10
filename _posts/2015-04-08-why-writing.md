@@ -15,19 +15,19 @@ Actually we mostly stayed in the building, because it would be unseemly for peop
 
 Of the many possible foci, there were a few leading contenders. We talked to a test-prep company in Plano, Texas. We talked to a half dozen “coaches” (professional and personal) of various stripes. We considered group therapy (our conception of “online learning” is broad - it’s not limited to what’s typically thought of as “education”). Also home-schooled kids, music teaching, facilitating study-groups for MOOCs, and I’m sure more that I haven’t mentioned yet. Oh - right - group Torah/Talmud study. We don’t permanently rule any of these out. In fact, we remain excited about a lot of them. And if you’re reading this and thinking “oh, OneRoom would be awesome for _x_,” [drop me a line](mailto:scott@joinoneroom.com) - I’d love to talk. 
 
-But we did find one particular “vertical” where our proposal really resonated, and that was with writing teachers. This was largely inspired by a conversation with a friend, Suzanne (Suzie) Mozes, who started an independent writing academy of sorts called [Storybuilding](http://www.storybuildingseries.com/) in 2014. 
+But we did find one particular “vertical” where our proposal really resonated, and that was with writing teachers. This was largely inspired by a conversation with a friend, Suzanne Mozes, who started an independent writing academy of sorts called [Storybuilding](http://www.storybuildingseries.com/) in 2014. 
 
 I had never actually participated in a writing workshop. It might have been good for me - I spent a little time in my early twenties trying to write poetry and short stories, and couldn’t [forgive myself the horrors of the first draft](https://twitter.com/alaindebotton/status/576491381406986240), and Ira Glass hadn’t yet [given beginners permission to suck for a while](http://www.goodreads.com/quotes/309485-nobody-tells-this-to-people-who-are-beginners-i-wish). 
 
 But writing workshops have been in my peripheral vision for a while. Some close friends from college participated in many, other friends (hi Katy) earned MFAs and write memoirs and poetry. I remember their descriptions of workshops - the severity and vulnerability of being silent while others critique your work, and thinking “that sounds intense.”
 
-So I kind of knew how this normally worked - maybe some lecturing, often some assigned reading, but mostly centered around writing and reacting to other students’ writing. A couple of things Suzie told me in that first conversation that really resonated: 
+So I kind of knew how this normally worked - maybe some lecturing, often some assigned reading, but mostly centered around writing and reacting to other students’ writing. A couple of things Suzanne told me in that first conversation that really resonated: 
 
 * She started organizing writing workshops a long time ago, and one of them is still going many years later.
 * Storybuilding emerged out of former students actively seeking her out, and saying “please do this."
 * The students sounded amazing. Most of them had been told at some point in their lives that they have a “gift with words,” and were trying to see what that meant for them.
 
-Suzie connected me to a few other teachers, who connected me to a few others still, and in the course of talking to them, we learned a lot about different teaching practices and heard many more stories of deeply satisfying workshop experiences. And the prospect of having an online classroom that’s really *made* for writing workshops was exciting to these teachers. More about what that means in a future post.  
+Suzanne connected me to a few other teachers, who connected me to a few others still, and in the course of talking to them, we learned a lot about different teaching practices and heard many more stories of deeply satisfying workshop experiences. And the prospect of having an online classroom that’s really *made* for writing workshops was exciting to these teachers. More about what that means in a future post.  
 
 As we thought more about it, it came to seem more and more like the right thing. The writing workshop has something in common with group therapy, and the asynchronous version that’s common, where everything happens by exchange of text - can’t possibly accomplish the same feeling of intimacy. Storytelling is a crucial professional skill. [Writing is therapeutic](http://well.blogs.nytimes.com//2015/01/19/writing-your-way-to-happiness/). And most broadly, it speaks to the upper reaches of Maslow’s hierarchy in a way we feel is important. 
 
