@@ -27,7 +27,7 @@ One participant wrote, afterwards, that the video “overall was significantly b
 
 ### Our make-believe classroom exercises worked well and smoothly. 
 
-We took turns reading paragraphs aloud from the first version of the Jack London story “To Light A Fire”, and read parts from a ridiculous dialogue for ESL practice we found called “3 people having lunch at a restaurant”, with snappy repartee like “Jane, could you pass the salt, please?” (spoiler alert: she passes the salt). 
+We took turns reading paragraphs aloud from the first version of the Jack London story “To Build A Fire”, and read parts from a ridiculous dialogue for ESL practice we found called “3 people having lunch at a restaurant”, with snappy repartee like “Jane, could you pass the salt, please?” (spoiler alert: she passes the salt). 
 
 ### Interrupting is possible. 
 
