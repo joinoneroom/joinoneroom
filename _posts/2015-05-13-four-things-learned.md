@@ -25,7 +25,7 @@ Conclusion: it’s important to mute yourself when drinking and snacking.
 
 I’ve had “write a short story” on my to-do list for about 6 months. Terrible to-do list item, for reasons [Wait But Why explains brilliantly](http://waitbutwhy.com/2013/11/how-to-beat-procrastination.html). I think I’m going to come out of this class having done it, and feeling good about it. 
 
-Partly because the class itself is helping to organize that project into smaller, achievable, approachable steps. But I also, crucially, because I know and feel keenly that there are other people expecting me to show up, to be engaged, to be prepared. 
+Partly because the class itself is helping to organize that project into smaller, achievable, approachable steps. But I think also, crucially, because I know and feel keenly that there are other people expecting me to show up, to be engaged, to be prepared. 
 
 We’ve been pondering this thesis for a while - that online learning as it’s most often practiced tends to fail because there’s no social support, and that live interactions are the solution. Based on this experience, I’m continuing to think it’s really true.   
 
