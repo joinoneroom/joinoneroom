@@ -7,7 +7,6 @@ image: kayla.jpg
 
 Technology is increasingly changing the landscape of education. We read textbooks on screens, take notes on laptops, there’s [an ever growing list of startups doing classroom gamification](https://www.crunchbase.com/category/gamification/af922a55ff56771ab9b506c1284ef0c8), not to mention the burgeoning phenomenon known as [edtech](http://edtechreview.in/dictionary/119-what-is-edtech). The air is heavy with “disruption”.
 
-
 At OneRoom, we’re deeply interested in the how and why (and what) of educational progress - especially in how it intersects with technology (hence, edtech!). So, naturally, we have been thinking about the roots of our modern disruption. Asking, what has made edtech evolve this way? And, what is the underlying drive, the philosophical undercurrent of these disruptions? After some thinking and reading we were eventually lead back to a guy name John Dewey, and some ideas he had about education 70 years ago. 
 
 Dewey was interested in the role of pedagogical structure in education. In the first structure that Dewey called “traditional education,” there are strict student and teacher roles. Teachers are placed at the top of the hierarchy of authority, passing down bits of knowledge to students. This model of learning treats knowledge as definable, quantifiable, and stagnant. 
