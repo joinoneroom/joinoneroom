@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "On Seminars"
-date:   2015-05-26 12:03:10
-categories: jekyll update
+title:  On Seminars
+author: Kayla Quock
+image: kayla.jpg
 ---
 
 Technology is increasingly changing the landscape of education. We read textbooks on screens, take notes on laptops, there’s [an ever growing list of startups doing classroom gamification](https://www.crunchbase.com/category/gamification/af922a55ff56771ab9b506c1284ef0c8), not to mention the burgeoning phenomenon known as [edtech](http://edtechreview.in/dictionary/119-what-is-edtech). The air is heavy with “disruption”.
@@ -10,9 +10,7 @@ Technology is increasingly changing the landscape of education. We read textbook
 
 At OneRoom, we’re deeply interested in the how and why (and what) of educational progress - especially in how it intersects with technology (hence, edtech!). So, naturally, we have been thinking about the roots of our modern disruption. Asking, what has made edtech evolve this way? And, what is the underlying drive, the philosophical undercurrent of these disruptions? After some thinking and reading we were eventually lead back to a guy name John Dewey, and some ideas he had about education 70 years ago. 
 
-Dewey was interested in the role of pedagogical structure in education. In the first structure that Dewey called “traditional education,” there are strict student and teacher roles. Teachers are placed at the top of the hierarchy of authority, passing down bits of knowledge to students. This model of learning treats knowledge as definable, quantifiable, and stagnant. Needless to say, there’s no shortage of satirical riffs on outcomes of this top down flow of information:
-
-![Calivn and Hobbes](https://missunderstoodgenius.files.wordpress.com/2012/03/ch7.gif)
+Dewey was interested in the role of pedagogical structure in education. In the first structure that Dewey called “traditional education,” there are strict student and teacher roles. Teachers are placed at the top of the hierarchy of authority, passing down bits of knowledge to students. This model of learning treats knowledge as definable, quantifiable, and stagnant. 
 
 Then, on the other hand, what Dewey calls “progressive education”. A structure where students’ voices are the main event of the learning process. Instead of a monologue, there’s a communal sharing of ideas. Student participation and engagement are central, and each student is encouraged to bring their own experience and perspective to the table. Since experience plays a big part in what and how people learn, knowledge itself is treated as fluid and evolving.
 
