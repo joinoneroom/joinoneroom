@@ -15,9 +15,9 @@ So how does all the recent innovation and disruption fit in this picture? Let’
 
 As Dewey recognized, most of us learn best when we feel some kind of kinship and collaboration with our peers. We develop these things through body language, facial expressions, tone of voice, and the general organic connections made by real-time conversations. These things often don’t come through in an online forum.
 
-That’s why, at OneRoom, we’re focusing on real-time, live online learning. We’re trying to preserve human connection and stimulate deep student engagement, and to foster the kind of  disruption that remembers and embraces Dewey’s insights. 
+That’s why we’re focusing on real-time, live online learning. We’re trying to preserve human connection and stimulate deep student engagement, and to foster the kind of  disruption that remembers and embraces Dewey’s insights. 
 
-So! Today, we’d like call on education innovators to join us in putting Dewey’s books on the shelf and his portrait on the wall:
+Here's Dewey on our wall:
 
 ![John Dewey at the University of Chicago in 1902, Eva Watson-Schütze (1867-1935)](/img/blog/dewey.jpg)
 
