@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  STAFF READS | A selection of books we loved in June 2015
-author: Jeff and ScOTT
-image: jeff.png;scott.png
+author: Jeff and Scott
+image: jeff.png
 ---
 
 Jeff Kolesky
