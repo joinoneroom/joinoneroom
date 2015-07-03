@@ -5,8 +5,8 @@ author: Jeff and Scott
 image: jeff.png
 ---
 
-Jeff Kolesky
-Co-founder
+##Jeff Kolesky
+##Co-founder
   <img src="http://www.healthwarrior.com/wp-content/uploads/2013/06/let-my-people-go-surfing-yvon-chouinard.jpg" alt="Picture of Let My People Go Surfing">
 I meant to read _Let My People Go Surfing_ about 10 years ago when I first learned that Yvon Chouinard had written a book about his experience founding and running Patagonia. Somehow I let a decade slip by as I read a series of other books by similarly-minded business owners like Paul Hawken and Gary Erickson, as well as more traditional business books. I’ve finally read it, and I found many of the lessons and much of the perspective had become conventional knowledge. I was pleased to read the stories unique to the founding of Patagonia and get a better understanding of Chouinard’s conceptual graduate degree: MBA—management by absence. My favorite part of the book is the word “yarak” – a falconry term that describes when a bird is hungry but alert, strong, and ready to hunt. Chouinard uses the concept toward applying just enough external stress to his team to make them achieve great goals. Which reminds me… I need to go eat.
 
