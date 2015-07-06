@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  STAFF READS
+title:  Staff Reads
 author: Jeff and Scott
 image: jeff.png
 ---
