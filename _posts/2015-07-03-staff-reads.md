@@ -2,7 +2,7 @@
 layout: post
 title:  Staff Reads
 author: Jeff and Scott
-image: jeff.png
+image:
 ---
 
 ##A selection of books we loved in June 2015
