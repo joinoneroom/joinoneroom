@@ -15,7 +15,7 @@
 .link:active  { color: $blue; }
 
 .link-reverse {
-  text-decoration: none;
+  text-decoration: underline;
   transition: all .4s;
 }
 
