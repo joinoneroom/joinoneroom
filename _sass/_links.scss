@@ -15,13 +15,13 @@
 .link:active  { color: $blue; }
 
 .link-reverse {
-  text-decoration: underline;
+  text-decoration: none;
   transition: all .4s;
 }
 
 .link-reverse:link    { color: $white; }
 .link-reverse:visited { color: $white; }
-.link-reverse:hover   { color: $near-white; }
+.link-reverse:hover   { color: $near-white; text-decoration: underline }
 .link-reverse:active  { color: $near-white; }
 
 .underline { text-decoration: underline; }
