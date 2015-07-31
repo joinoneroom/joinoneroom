@@ -2,7 +2,7 @@
 title: It's a Long Way to the Top if You Want to Rock 'n' Roll
 layout: post
 author: Laura Lampton Scott
-image: laura.jpg
+image: laura2.jpg
 ---
 OneRoom staffer, Laura, in response to a [medium article](https://medium.com/medium-writing-prompts/what-s-the-best-writing-advice-you-ve-ever-received-928965d36467) posted by [Litographs](http://www.litographs.com/) and [826 National](http://826national.org/).
 
