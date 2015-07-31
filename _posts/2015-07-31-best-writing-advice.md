@@ -5,7 +5,7 @@ author: Laura Lampton Scott
 image: Laura.jpg
 ---
 
-![Picture of a notebook and pen.](/img/notebook.jpg)
+![Picture of a notebook and pen.](/img/notebook.jpeg)
 
 OneRoom staffer, Laura, in response to a [medium article](https://medium.com/medium-writing-prompts/what-s-the-best-writing-advice-you-ve-ever-received-928965d36467) posted by [Litographs](http://www.litographs.com/) and [826 National](http://826national.org/).
 
