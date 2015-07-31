@@ -5,7 +5,8 @@ author: Laura Lampton Scott
 image: Laura.jpg
 ---
 OneRoom staffer, Laura, in response to a [medium article](https://medium.com/medium-writing-prompts/what-s-the-best-writing-advice-you-ve-ever-received-928965d36467) posted by [Litographs](http://www.litographs.com/) and [826 National](http://826national.org/).
---------------
+
+--
 
 To try to hone in on the absolute best piece of writing advice? Impossible. Thinking on the generosity of teachers can be overwhelming. But here goes, best advice I’ve gotten over and over? That it — all of it — will take forever.
 
