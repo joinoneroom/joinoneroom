@@ -23,3 +23,7 @@ Here's Dewey on our wall:
 
 
 
+<div class="tc pam">
+      <a class="btn btn--blue pal br3" href="https://app.joinoneroom.com/course">Browse the OneRoom Class Catalog</a>
+    </div>
+

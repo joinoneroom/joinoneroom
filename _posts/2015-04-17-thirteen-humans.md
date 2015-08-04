@@ -61,3 +61,8 @@ Overall, this was a lot of fun and very encouraging, and gave us a boost of conf
 We still have a lot of work to do between now and the 29th, though, so I’m going to get back to it. 
 
 Have a great day. 
+
+
+<div class="tc pam">
+      <a class="btn btn--blue pal br3" href="https://app.joinoneroom.com/course">Browse the OneRoom Class Catalog</a>
+    </div>

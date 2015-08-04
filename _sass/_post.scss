@@ -16,6 +16,8 @@ in Jekyll to apply classes to internal content rendered from markdown.
   a:visited { color: $aqua; }
   a:hover   { color: $blue; }
   a:active  { color: $blue; }
+  
+  a.btn { color: #fff }
 
   blockquote {
     font-style: italic;

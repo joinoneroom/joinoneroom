@@ -44,3 +44,7 @@ There’s a passage from a Richard Hugo essay called “In Defense of Creative-W
 > It is possible for a good teacher to get from [a] student one poem or one story that far exceeds whatever hopes the student had. It may be of no importance to the world of high culture, but it may be very important to the student. It is a small thing, but it is also small and wrong to forget or ignore lives that can use a single microscopic moment of personal triumph. 
 
 That sums it up, in my book.
+
+<div class="tc pam">
+      <a class="btn btn--blue pal br3" href="https://app.joinoneroom.com/course">Browse the OneRoom Class Catalog</a>
+    </div>
