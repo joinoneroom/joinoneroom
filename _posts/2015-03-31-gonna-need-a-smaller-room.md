@@ -43,3 +43,8 @@ We felt for the first time that live video could achieve this feeling of togethe
 Building a platform around small, live synchronous classes is, we’ll (proudly) admit, kind of contrarian. It's deliberately small-scale. To record a class once, then sell it a bajillion times is unquestionably appealing from a business standpoint. The problem is, for learning, it just doesn't work very well. When you focus on scale exclusively, you lose what's arguably the most important: the humanity. (And not incidentally, also, The Humanities!)   
 
 So we're giving this a shot. And for the record, we think that being human-scaled can be great for learning, and great for business, too. We're going to prove it. 
+
+
+<div class="tc pam">
+      <a class="btn btn--blue pal br3" href="https://app.joinoneroom.com/course">Browse the OneRoom Class Catalog</a>
+    </div>

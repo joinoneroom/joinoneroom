@@ -38,3 +38,8 @@ But I think this also points to something larger. Several of the participants ar
 ----
 
 I’ll have a lot more to say about this first experience in the next few weeks. For now, signing off, back to work, and looking forward to session 3 tonight.
+
+
+<div class="tc pam">
+      <a class="btn btn--blue pal br3" href="https://app.joinoneroom.com/course">Browse the OneRoom Class Catalog</a>
+    </div>
