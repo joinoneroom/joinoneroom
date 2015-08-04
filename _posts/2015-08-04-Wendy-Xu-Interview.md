@@ -28,5 +28,5 @@ ___
 *These are questions I want to answer because I like the idea that online learning removes the hierarchy of location—what if the town you live in doesn't offer a million classes through local organizations? What if it's difficult to arrange reliable transportation to take a class, or attend school, and public options aren't so great? What if childcare is an issue for you? I think the work-around to at least some of this is here.*
 
 <div class="tc pam">
-      <a class="btn btn--blue pal br3" href="https://app.joinoneroom.com/course/the-poetry-of-place/">See Wendy's Class</a>
+      <a class="btn btn--blue btn--blue:link btn--blue:visited btn--blue:hover btn--blue:active pal br3" href="https://app.joinoneroom.com/course/the-poetry-of-place/">See Wendy's Class</a>
     </div>
