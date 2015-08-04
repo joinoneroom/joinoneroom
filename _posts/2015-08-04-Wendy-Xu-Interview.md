@@ -5,7 +5,7 @@ author: Wendy Xu
 image: Wendy_Xu.jpg
 ---
 
-##### We asked five questions of poet and teacher Wendy Xu. She told us about the struggles of believing in your own work and her excitement of an online classroom with face-to-face capabilities and easy communication tools.
+##### We asked five questions of poet and teacher [Wendy Xu](http://extrahumanarchitecture.tumblr.com/). She told us about the struggles of believing in your own work and her excitement of an online classroom with face-to-face capabilities and easy communication tools.
 
 
 ## Why do you choose to teach this subject?
