@@ -8,6 +8,7 @@ image: Wendy_Xu.jpg
 We asked five questions of poet and teacher [Wendy Xu](http://extrahumanarchitecture.tumblr.com/). She told us about the struggles of believing in your own work and her excitement of an online classroom with face-to-face capabilities and easy communication tools.
 
 
+
 ## Why do you choose to teach this subject?
 
 *I've always been interested in place-based languages having left one home (Shandong, China), one language, at an early age for another. I think for immigrants the idea of "native language" is incredibly fraught, but in some regards may also be fruitful. Or, healing. I want the poem to be a site for resistance, and want to work through these possibilities with others.*
