@@ -30,4 +30,3 @@ ___
 <div class="tc pam">
       <a class="btn btn--blue pal br3" href="http://app.joinoneroom.com/course">See Wendy's Class</a>
     </div>
-<a class="btn btn--blue pal br3" href="http://app.joinoneroom.com/course">See Wendy's Class</a>
