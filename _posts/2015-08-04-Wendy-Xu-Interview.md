@@ -9,6 +9,9 @@ We asked five questions of poet and teacher [Wendy Xu](http://extrahumanarchitec
 
 
 
+
+
+
 ## Why do you choose to teach this subject?
 
 *I've always been interested in place-based languages having left one home (Shandong, China), one language, at an early age for another. I think for immigrants the idea of "native language" is incredibly fraught, but in some regards may also be fruitful. Or, healing. I want the poem to be a site for resistance, and want to work through these possibilities with others.*
