@@ -5,11 +5,7 @@ author: Wendy Xu
 image: Wendy_Xu.jpg
 ---
 
-We asked five questions of poet and teacher Wendy Xu. She told us about the struggles of 
-
-believing in your own work and her excitement of an online classroom with face-to-face 
-
-capabilities and easy communication tools. 
+We asked five questions of poet and teacher Wendy Xu. She told us about the struggles of believing in your own work and her excitement of an online classroom with face-to-face capabilities and easy communication tools. 
 
 
 ## Why do you choose to teach this subject?
@@ -29,3 +25,5 @@ It's always a matter of convincing myself that I've said (written) something mea
 When I was in grad school, each semester a few people would get appointed to teach a section of creative writing or poetry online. And the conversation surrounding that appointment was a matter of how to maximize all the good of the internet (flexibility, increased democracy of access) with the challenges (awkward interfaces, no in-person contact). I've been interested in it ever since then, but have felt genuinely intimidated by trying to customize existing platforms (Skype, Google Hangout, etc) to suit creative writing. Like, how to collect and disseminate student work? How to replicate group work, or, everyone's favorite part of a vigorous yet draining session, the break? How to tailor my own pedagogy to an online platform?
 
 These are questions I want to answer because I like the idea that online learning removes the hierarchy of location—what if the town you live in doesn't offer a million classes through local organizations? What if it's difficult to arrange reliable transportation to take a class, or attend school, and public options aren't so great? What if childcare is an issue for you? I think the work-around to at least some of this is here.
+
+FIND HER CLASS HERE
