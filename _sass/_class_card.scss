@@ -1,0 +1,78 @@
+.class-card {
+  background-color: white;
+  color: #999;
+  border-radius: 6px;
+  position: relative;
+  overflow: hidden;
+  height: 21em;
+  min-width: 266px;
+  border: 1px solid #ccc;
+
+  &:hover {
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.15);
+  }
+
+  .class-image {
+    background: url() center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 8em;
+
+    // We need this table stuff to dynamically center the title vertically
+      .title-container {
+        display: table;
+        height: 100%;
+        width: 100%;
+
+        // Apply a dark scrim over image
+        background-color: rgba(0, 0, 0, 0.25);
+      }
+
+      .title-outer {
+        display: table-cell;
+        vertical-align: middle;
+      }
+
+      .title-inner {
+        margin-left: auto;
+        margin-right: auto;
+        width: 98%;
+
+        h3 {
+          text-align: center;
+          color: white;
+          margin: 0;
+        }
+      }
+  }
+
+  .info {
+    padding: 1em;
+    font-size: 0.8rem;
+
+    p {
+      margin: 0;
+      text-decoration: none;
+      max-height: 135px;
+      overflow: hidden;
+    }
+
+    .teacher-info {
+      margin: 1em 0;
+      position: absolute;
+      bottom: 0;
+    }
+
+    .teacher-avatar {
+      display: inline-block;
+      margin: 0em 0.5em 0 0;
+      float: left;
+    }
+
+    .teacher-name {
+      display: inline-block;
+      float: left;
+      margin: 0.8em 0 0;
+    }
+  }
+}
