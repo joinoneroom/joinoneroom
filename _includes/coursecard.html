@@ -1,0 +1,30 @@
+<a href={{ course.courseUrl }}>
+  <div class="course-card">
+    <div class="course-image" style="background:url({{ course.imageUrl }}) center center;">
+      <div class="title-container">
+        <div class="title-outer">
+          <div class="title-inner">
+            <h3>
+              {{ course.name }}
+            </h3>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="info">
+      <p class="f5 lh-copy">
+        {{ course.description }}
+      </p>
+      <div class="teacher-info">
+        <div class="teacher-avatar">
+          <div class="avatar">
+            <div class="avatar-img" style="background: url({{ course.teacherPicUrl }}) no-repeat center center;"></div>
+          </div>
+        </div>
+        <div class="teacher-name f5">
+          {{ course.teacherName }}
+        </div>
+      </div>
+    </div>
+  </div>
+</a>

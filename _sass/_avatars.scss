@@ -1,0 +1,21 @@
+.avatar {
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  border-radius: 50%;
+  display: inline-block;
+  height: 32px;
+  width: 32px;
+  overflow: hidden;
+
+  .avatar-img {
+    // !important is necessary because of inline background images in class cards
+    -webkit-background-size: cover !important;
+    -moz-background-size: cover !important;
+    -o-background-size: cover !important;
+    background-size: cover !important;
+    display: inline-block;
+    margin: 0 auto;
+    height: 32px;
+    width: 32px;
+  }
+}
