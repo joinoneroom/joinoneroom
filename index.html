@@ -7,29 +7,24 @@ layout: master
   <div class="link">
   </div>
   <div class="bt bw3 b--green center mw-fill-l phm phl-ns pbxl bg-cv" style="background-image:url(img/header.jpg);background-position: center top;">
-    <h2 class="mtn f2 mega-ns fw7 white tc ptl ptx-ns mtl">ONLINE LEARNING, HUMANIZED</h2>
-    <div class="tc pam">
-      <a class="btn btn--blue pal br3" href="http://app.joinoneroom.com/course">Browse the class catalog</a>
+    <h2 class="mtn f2 mega-ns fw7 white tc ptl mvl">Online Learning, Humanized</h2>
+    <p class="white f2-l mw7 mbl center">The best way to learn anything is with other humans. OneRoom makes that possible online - finally. Meet face-to-face and learn together in video classrooms you can access from anywhere.</p>
+    <div class="cf mw8 center">
+      {% for class in site.data.classes %}
+        <div class="mw5 fl mlx">
+          {% include classcard.html %}
+        </div>
+      {% endfor %}
     </div>
-    <hr style="height:0;padding-bottom:1px;background:rgba(0,0,0,.1);border:0;" class="mw7 mvl">
-    <div class="cf">
-      <div class="mw5 mw7-ns tc center ">
-        <img src="img/modes.png" class="dib">
-      </div>
+    <div class="tc pam mtl">
+      <a class="btn btn--blue pal br3" href="http://app.joinoneroom.com/course">Browse all classes</a>
     </div>
-
-      </div>
+  </div>
 </header>
 
     <main class="pbx-ns">
-    <div class="cf ptx">
-      <div class="center mw7 phm phl-ns">
-        <p class="serif f2 fw1 lh-copy">
-        OneRoom's live video classroom takes the loneliness out of online learning. OneRoom empowers teachers to take the workshop and the seminar, not just the lecture, to the global community of learners.
-        </p>
-      </div>
-    </div>
-    <section class="bg-light-gray tc center mtl">
+    <section class="bg-light-gray tc center ptl">
+      <h3 class="mtn f2 fw4 tc silver mbn">Subscribe to OneRoom News</h3>
       <div class="phm phl-ns lh-copy f4 ptm pbl br3">
         <form action="//joinoneroom.us8.list-manage.com/subscribe/post?u=76d6db963f53c6373ac58a7dd&amp;id=04aed0f3b7" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
           <div class="mc-field-group">
@@ -40,7 +35,7 @@ layout: master
               <div class="response" id="mce-error-response" style="display:none;color:#fff"></div>
               <div class="response" id="mce-success-response" style="display:none;color:#fff"></div>
             </div>
-            <div class="mtm">
+            <div class="mtn">
               <input type="submit" value="Subscribe to OneRoom News" class="f5 btn btn--blue pam br3 ba bs-none" name="subscribe" id="mc-embedded-subscribe">
             </div>
 

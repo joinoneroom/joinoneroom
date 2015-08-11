@@ -7,6 +7,7 @@
   height: 21em;
   min-width: 266px;
   border: 1px solid #ccc;
+  margin-bottom: 1em;
 
   &:hover {
     box-shadow: 0 0 5px rgba(0, 0, 0, 0.15);
@@ -49,6 +50,7 @@
   .info {
     padding: 1em;
     font-size: 0.8rem;
+    color: $dark_blue;
 
     p {
       margin: 0;
@@ -73,6 +75,7 @@
       display: inline-block;
       float: left;
       margin: 0.8em 0 0;
+      color: $gray;
     }
   }
 }
