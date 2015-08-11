@@ -10,7 +10,23 @@
   margin-bottom: 1em;
 
   &:hover {
-    box-shadow: 0 0 5px rgba(0, 0, 0, 0.15);
+    -moz-box-shadow: 0 0 8px rgba(0, 0, 0, 0.40);
+    -webkit-box-shadow: 0 0 8px rgba(0, 0, 0, 0.40);
+    box-shadow: 0 0 8px rgba(0, 0, 0, 0.40);
+    -webkit-transition: box-shadow 0.1s linear;
+    -moz-transition: box-shadow 0.1s linear;
+    -o-transition: box-shadow 0.1s linear;
+    -ms-transition: box-shadow 0.1s linear;
+    transition: box-shadow 0.1s linear; 
+
+    .course-image .title-container {
+      background-color: rgba(0, 0, 0, 0.35);
+      -webkit-transition: background-color 0.1s linear;
+      -moz-transition: background-color 0.1s linear;
+      -o-transition: background-color 0.1s linear;
+      -ms-transition: background-color 0.1s linear;
+      transition: background-color 0.1s linear;
+    }
   }
 
   .course-image {
