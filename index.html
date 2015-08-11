@@ -10,9 +10,9 @@ layout: master
     <h2 class="mtn f2 mega-ns fw7 white tc ptl mvl">Online Learning, Humanized</h2>
     <p class="white f2-l mw7 mbl center">The best way to learn anything is with other humans. OneRoom makes that possible online - finally. Meet face-to-face and learn together in video classrooms you can access from anywhere.</p>
     <div class="cf mw8 center">
-      {% for class in site.data.classes %}
+      {% for course in site.data.courses %}
         <div class="mw5 fl mlx">
-          {% include classcard.html %}
+          {% include coursecard.html %}
         </div>
       {% endfor %}
     </div>
