@@ -5,9 +5,7 @@ author: Rachel Howard
 image: rachel-howard.jpg
 ---
 
-## 1. Only people who have suffered a terrible trauma or lived a larger-than-life story 
-
-should write memoir. 
+## 1. Only people who have suffered a terrible trauma or lived a larger-than-life story should write memoir. 
 
 The pitfalls of this belief lie on both sides. Often, people who have led bold lives—founding renowned companies, barely surviving a climb up Mount Kilimanjaro—think a simple recount of their adventures, one scene after another, makes a riveting memoir.
 
