@@ -42,7 +42,7 @@ Those things that cast you in a not-so-flattering light, those things you’d ra
 Have you ever been in a workshop or writing class with the verb tense police? They are the type of reader who tells you that if you use present-tense narration in one section of your book, you can’t use past tense in another. Not true.
 
 
-It might seem like it would be easier to establish strict rules for tense, but a survey of the memoir field shows that many of the most interesting memoirs vary tense without causing the reader confusion. Sometimes a shift in tense is crucial to establish the storyteller’s perspective, the “then” and the “now.” Check out Alexandra Fuller’s _[Don’t Lets Go to the Dogs Tonight_](http://www.powells.com/biblio/7-9780375758997-4) and Marilyn Abildskov’s _[The Men in My Country_](http://www.powells.com/biblio/1-9780877459040-6) for two gorgeous examples.
+It might seem like it would be easier to establish strict rules for tense, but a survey of the memoir field shows that many of the most interesting memoirs vary tense without causing the reader confusion. Sometimes a shift in tense is crucial to establish the storyteller’s perspective, the “then” and the “now.” Check out Alexandra Fuller’s [_Don’t Lets Go to the Dogs Tonight_](http://www.powells.com/biblio/7-9780375758997-4) and Marilyn Abildskov’s [_The Men in My Country_](http://www.powells.com/biblio/1-9780877459040-6) for two gorgeous examples.
 
 
 ## 6. Throw Out the Rules
