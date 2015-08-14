@@ -58,7 +58,7 @@ Rules for writing are attempts at shortcutting the real apprenticeship of writin
 
 <br>
 ----
-<br>
+
 
 [_Rachel Howard’s memoir_](https://app.joinoneroom.com/teacher/rachel-howard/) _about her father’s unsolved murder, The Lost Night, was described as “enthralling” by the New York Times. Her One Room class,_ [_Shaping Truth: Memoir and Personal Essay_](https://app.joinoneroom.com/course/shaping-truth-memoir-and-personal-essay/)_, begins September 16th._
 
