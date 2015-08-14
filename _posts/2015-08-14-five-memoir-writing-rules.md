@@ -4,6 +4,7 @@ layout: post
 author: Rachel Howard
 image: rachel-howard.jpg
 ---
+![Picture of flying papers](/img/flying_paper.jpg)
 
 ## 1. Only people who have suffered a terrible trauma or lived a larger-than-life story should write memoir. 
 
