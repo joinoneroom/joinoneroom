@@ -4,6 +4,8 @@ layout: post
 author: Laura Lampton Scott
 image: laura2.jpg
 ---
+![Picture of a concert](/img/rock_and_roll.jpg)
+
 **"What's the best writing advice you've ever received?"**
 A reply to the [writing advice post](https://medium.com/medium-writing-prompts/what-s-the-best-writing-advice-you-ve-ever-received-928965d36467) on Medium, posted by [Litographs](http://www.litographs.com/) and [826 National](http://826national.org/).
 
