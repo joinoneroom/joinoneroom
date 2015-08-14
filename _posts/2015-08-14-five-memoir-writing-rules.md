@@ -56,4 +56,4 @@ My memoir class [Shaping Truth](https://app.joinoneroom.com/course/shaping-truth
 Rules for writing are attempts at shortcutting the real apprenticeship of writing. Learning from other writers by reading deeply will free you to make your own artistic choices. Finding examples to disprove the rules is the way to move beyond well-intentioned advice that may be holding you back, and make your memoir come alive.
 
 
-_[Rachel Howard’s memoir](https://app.joinoneroom.com/teacher/rachel-howard/) about her father’s unsolved murder, The Lost Night, was described as “enthralling” by the New York Times. Her One Room class, [_Shaping Truth: Memoir and Personal Essay] (https://app.joinoneroom.com/course/shaping-truth-memoir-and-personal-essay/), begins September 16th._
+[_Rachel Howard’s memoir_](https://app.joinoneroom.com/teacher/rachel-howard/) _about her father’s unsolved murder, The Lost Night, was described as “enthralling” by the New York Times. Her One Room class,_ [_Shaping Truth: Memoir and Personal Essay_] (https://app.joinoneroom.com/course/shaping-truth-memoir-and-personal-essay/)_, begins September 16th._
