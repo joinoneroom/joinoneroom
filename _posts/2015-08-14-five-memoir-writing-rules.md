@@ -56,6 +56,7 @@ My memoir class [Shaping Truth](https://app.joinoneroom.com/course/shaping-truth
 
 Rules for writing are attempts at shortcutting the real apprenticeship of writing. Learning from other writers by reading deeply will free you to make your own artistic choices. Finding examples to disprove the rules is the way to move beyond well-intentioned advice that may be holding you back, and make your memoir come alive.
 <br>
+<br>
 
 ---
 
