@@ -6,44 +6,52 @@ layout: master
 <header>
   <div class="link">
   </div>
-  <div class="bt bw3 b--green center mw-fill-l phm phl-ns pbxl bg-cv" style="background-image:url(img/header.jpg);background-position: center top;">
+  <div class="bt bw3 b--green center mw-fill-l phm phl-ns pbl bg-cv" style="background-image:url(img/header.jpg);background-position: center top;">
     <h2 class="mtn f1 mega-ns fw7 white tc ptn mtl mbm">Online Learning, Humanized</h2>
     <p class="white f3 mw7 mbl center">The best way to learn anything is with other humans. OneRoom makes that possible online - finally. Meet face-to-face and learn together in video classrooms you can access from anywhere.</p>
-    <div class="cf mw-100 mw8-ns center">
-      {% for course in site.data.courses %}
-        <div class="wi-100 wi5-ns fl mlx-ns">
-          {% include coursecard.html %}
-        </div>
-      {% endfor %}
-    </div>
-    <div class="tc pam mts">
-      <a class="btn btn--blue pal br3" href="http://app.joinoneroom.com/course">Browse all classes</a>
+    <div class="cf mw-100 mw6-ns center">
+      <div class="video-wrapper">
+        <iframe width="552" height="414" src="https://www.youtube.com/embed/mdGHr765KfE?showinfo=0&controls=0" frameborder="0" allowfullscreen></iframe>
+      </div>
     </div>
   </div>
 </header>
 
     <main class="pbx-ns">
-    <section class="bg-light-gray tc center ptl">
-      <h3 class="mtn f2 fw4 tc silver mbn">Subscribe to OneRoom News</h3>
-      <div class="phm phl-ns lh-copy f4 ptm pbl br3">
-        <form action="//joinoneroom.us8.list-manage.com/subscribe/post?u=76d6db963f53c6373ac58a7dd&amp;id=04aed0f3b7" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
-          <div class="mc-field-group">
-            <div class="mw6 mbl mtm dib wi-50-ns wi-100 mc-field-group">
-              <input id="mce-EMAIL" type="email" class="wi-100 ba b--gray br2 pas required email" placeholder="example: writer@gmail.com" name="EMAIL"/>
+      <section class="bg-lightest-gray tc center pvl phm">
+        <div class="cf mw-100 mw8-ns center">
+          <h3 class="f1 tc fw4 silver">Featured Classes</h3>
+          {% for course in site.data.courses %}
+            <div class="wi-100 wi5-ns fl mlx-ns">
+              {% include coursecard.html %}
             </div>
-            <div id="mce-responses" class="clear">
-              <div class="response" id="mce-error-response" style="display:none;color:#fff"></div>
-              <div class="response" id="mce-success-response" style="display:none;color:#fff"></div>
-            </div>
-            <div class="mtn">
-              <input type="submit" value="Subscribe to OneRoom News" class="f5 btn btn--blue pam br3 ba bs-none" name="subscribe" id="mc-embedded-subscribe">
-            </div>
+          {% endfor %}
+        </div>
+        <div class="tc pam mts">
+          <a class="btn btn--blue pal br3" href="http://app.joinoneroom.com/course">Browse all classes</a>
+        </div>
+      </section>
+      <section class="bg-aqua-light tc center pvl">
+        <h3 class="mtn f2 fw4 tc silver mbn mtl">Subscribe to OneRoom News</h3>
+        <div class="phm phl-ns lh-copy f4 ptm pbl br3">
+          <form action="//joinoneroom.us8.list-manage.com/subscribe/post?u=76d6db963f53c6373ac58a7dd&amp;id=04aed0f3b7" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+            <div class="mc-field-group">
+              <div class="mw6 mbl mtm dib wi-50-ns wi-100 mc-field-group">
+                <input id="mce-EMAIL" type="email" class="wi-100 ba b--gray br2 pas required email" placeholder="example: writer@gmail.com" name="EMAIL"/>
+              </div>
+              <div id="mce-responses" class="clear">
+                <div class="response" id="mce-error-response" style="display:none;color:#fff"></div>
+                <div class="response" id="mce-success-response" style="display:none;color:#fff"></div>
+              </div>
+              <div class="mtn">
+                <input type="submit" value="Subscribe to OneRoom News" class="f5 btn btn--blue pam br3 ba bs-none" name="subscribe" id="mc-embedded-subscribe">
+              </div>
 
-            <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
-            <div style="position: absolute; left: -5000px;"><input type="text" name="b_76d6db963f53c6373ac58a7dd_04aed0f3b7" tabindex="-1" value=""></div>
-        </form>
-          </div>
-    </section>
+              <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+              <div style="position: absolute; left: -5000px;"><input type="text" name="b_76d6db963f53c6373ac58a7dd_04aed0f3b7" tabindex="-1" value=""></div>
+          </form>
+            </div>
+      </section>
     </main>
 
     <script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script>
