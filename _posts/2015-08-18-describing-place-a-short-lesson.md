@@ -37,9 +37,12 @@ I hope you enjoy this mini-lesson. In my Description course, this lesson goes on
 
 
 After all, a dentist’s office would be described quite differently by someone arriving for major surgery than by a teenager getting her braces removed after two unsightly years. 
+<br>
+<br>
 
+---
 
-_Ben Obler_ is the author of the novel Javascotia, from Penguin UK. His short story “The White Man’s Incredulity Furrows His Brow” won the 2014 short story contest with the journal Puerto del Sol. He holds a Master’s of Letters degree from the University of Glasgow, Scotland.
+_Ben Obler is the author of the novel Javascotia, from Penguin UK. His short story “The White Man’s Incredulity Furrows His Brow” won the 2014 short story contest with the journal Puerto del Sol. He holds a Master’s of Letters degree from the University of Glasgow, Scotland. _
 
 <div class="tc pam">
       <a class="btn btn--blue pal br3" href="https://app.joinoneroom.com/course/advanced-fiction-workshop-description/">See Ben's Class</a>
