@@ -34,7 +34,7 @@ Try this writing prompt.
 Descriptions of the sights, sounds, and smells of a place are like walls to a room that you construct and locate your reader in. Once they are erected, he/she feels oriented. Not necessarily comfortable, but like they know _unmistakably_ where they are. 
 
 
-I hope you enjoy this mini-lesson. In my Description course, this lesson goes on to address your character’s reason for being in that place, and how it effects description. Where the character’s focus goes must be inherent to him/her as a character in that scene within the larger plot. 
+I hope you enjoy this mini-lesson. In my [Description course](https://app.joinoneroom.com/course/advanced-fiction-workshop-description/), this lesson goes on to address your character’s reason for being in that place, and how it effects description. Where the character’s focus goes must be inherent to him/her as a character in that scene within the larger plot. 
 
 
 After all, a dentist’s office would be described quite differently by someone arriving for major surgery than by a teenager getting her braces removed after two unsightly years. 
