@@ -19,7 +19,7 @@ One technique I find helpful is to approach descriptions of place with the fresh
 
 Look at this passage from John Updike’s novel _Rabbit is Rich_. In it, Harry (“Rabbit”) Angstrom arrives by plane to a Caribbean island:
 
-⋅⋅⋅_Through his patch of scratched Plexiglas he sees a milky turquoise sea mottled with purple-green shadows cast from underneath, islands beneath the surface. A single sailboat. Then a ragged arm of rocky land in a sleeve of white beach. Small houses with red corrugated roofs rise toward him._⋅⋅
+_Through his patch of scratched Plexiglas he sees a milky turquoise sea mottled with purple-green shadows cast from underneath, islands beneath the surface. A single sailboat. Then a ragged arm of rocky land in a sleeve of white beach. Small houses with red corrugated roofs rise toward him._
 
 A plane landing. On the one hand, it’s a very common occurrence. Thousands of planes take off and land every day. And yet, to someone like this character who has never flown, it’s an extraordinarily vivid experience. In just these few lines, Updike captures the freshness of the new place to Harry. This fullness and richness is what we want to bring to our descriptions of place. 
 
