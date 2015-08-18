@@ -5,8 +5,6 @@ author: Ben Obler
 image: ben_obler.jpg
 ---
 
-### Describing Place—A Short Lesson
-
 Describing place is a great entry point for enhancing description, because it represents that elemental dichotomy, the writer and the outside world. The observer and the observed. The interior mind brought to bear on the exterior world. This is the essence of writing, and bridging this gap, to the extent that it is a gap, is one of the fundamental tasks of the writer. 
 
 
@@ -42,4 +40,4 @@ I hope you enjoy this mini-lesson. In my Description course, this lesson goes on
 After all, a dentist’s office would be described quite differently by someone arriving for major surgery than by a teenager getting her braces removed after two unsightly years. 
 
 
-Ben Obler is the author of the novel Javascotia, from Penguin UK. His short story “The White Man’s Incredulity Furrows His Brow” won the 2014 short story contest with the journal Puerto del Sol. He holds a Master’s of Letters degree from the University of Glasgow, Scotland.
+_Ben Obler_ß is the author of the novel Javascotia, from Penguin UK. His short story “The White Man’s Incredulity Furrows His Brow” won the 2014 short story contest with the journal Puerto del Sol. He holds a Master’s of Letters degree from the University of Glasgow, Scotland.
