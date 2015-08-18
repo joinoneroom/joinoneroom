@@ -42,7 +42,7 @@ After all, a dentist’s office would be described quite differently by someone 
 
 ---
 
-_Ben Obler is the author of the novel Javascotia, from Penguin UK. His short story “The White Man’s Incredulity Furrows His Brow” won the 2014 short story contest with the journal Puerto del Sol. He holds a Master’s of Letters degree from the University of Glasgow, Scotland._
+_[Ben Obler](http://www.benobler.com/) is the author of the novel Javascotia, from Penguin UK. His short story “The White Man’s Incredulity Furrows His Brow” won the 2014 short story contest with the journal Puerto del Sol. He holds a Master’s of Letters degree from the University of Glasgow, Scotland._
 
 <div class="tc pam">
       <a class="btn btn--blue pal br3" href="https://app.joinoneroom.com/course/advanced-fiction-workshop-description/">See Ben's Class</a>
