@@ -18,7 +18,7 @@ We’re at a gas station at night, routinely filling the tank. Do we even notice
 One technique I find helpful is to approach descriptions of place with the fresh eyes of the newly arrived. You have to forget all you know, or assume you know, about a place, and arrive there anew in your description. 
 
 
-Look at this passage from John Updike’s novel _Rabbit is Rich_. In it, Harry (“Rabbit”) Angstrom arrives by plane to a Caribbean island:
+Look at this passage from John Updike’s novel [_Rabbit is Rich_](http://www.amazon.com/Rabbit-Is-Rich-John-Updike/dp/0449911829). In it, Harry (“Rabbit”) Angstrom arrives by plane to a Caribbean island:
 
 _Through his patch of scratched Plexiglas he sees a milky turquoise sea mottled with purple-green shadows cast from underneath, islands beneath the surface. A single sailboat. Then a ragged arm of rocky land in a sleeve of white beach. Small houses with red corrugated roofs rise toward him._
 
