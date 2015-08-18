@@ -4,6 +4,7 @@ layout: post
 author: Ben Obler
 image: ben_obler.jpg
 ---
+![Picture of a flying plane](https://gm1.ggpht.com/aWAlHazbHVzN9irmKOVifF6v4z3TN9_0aPGjO_TC5PCnyrh236ZD63wDpEPYkH_iImK1BqE4MJrlGcXvS7BpalB6Sych3x5Hko33oQ5qGJwDs1pIQme-e7aRSI9yAvZH7LMu1w5n96IrXu7PnNIaDajLahzu90ExjE_j6DETlqR3C-95LAVVJaBTRN66nOwVplUGdLtcnmvD82klHWzIYR2HDjoWVdiqRUqadJkVlmxKUClOlAPRDQ4D13mWy3Cw9EEb1TbZEHZwq6ieQUy-RWKs5GhTzJfH05rJIKjcjXd6yPGQ4wjOHwDcuPsn5vgmLUfCwxBHKiUc__Bw8gQd8al6aDA3m1CM1hPF3SsfHsQmqOyexrYf2oIInSu2Y0AKjcZzji7rXttxtGuVjX7PfoZj_4nVvqDpT9kw9UdmNygN7MmMJpoYI2sqxrVba-kd1gQYV1L2tCPT3GlLtOvvHU54q3k6cNziFanb_OTy1YCTIzk-QkIiDAHGoM-CXowQMgvqLxIoyimsq5PWunbTqA7e-X9d2o49xol4fHEw3T0m4n9oBIuPSJXUxRYisu3iM2WWUd-i-Yg0n4B6_rCvWAp2QeWgdqIuxckXAexN50pbQBiwEzHZ-3d8mKQ=w1013-h833-l75-ft)
 
 Describing place is a great entry point for enhancing description, because it represents that elemental dichotomy, the writer and the outside world. The observer and the observed. The interior mind brought to bear on the exterior world. This is the essence of writing, and bridging this gap, to the extent that it is a gap, is one of the fundamental tasks of the writer. 
 
@@ -42,7 +43,7 @@ After all, a dentist’s office would be described quite differently by someone 
 
 ---
 
-_[Ben Obler](http://www.benobler.com/) is the author of the novel Javascotia, from Penguin UK. His short story “The White Man’s Incredulity Furrows His Brow” won the 2014 short story contest with the journal Puerto del Sol. He holds a Master’s of Letters degree from the University of Glasgow, Scotland._
+_[Ben Obler](http://www.benobler.com/) is the author of the novel [Javascotia](http://www.amazon.com/Javascotia-Ben-Obler/dp/0141038322), from Penguin UK. His short story “The White Man’s Incredulity Furrows His Brow” won the 2014 short story contest with the journal [Puerto del Sol](http://www.puertodelsol.org/). He holds a Master’s of Letters degree from the University of Glasgow, Scotland._
 
 <div class="tc pam">
       <a class="btn btn--blue pal br3" href="https://app.joinoneroom.com/course/advanced-fiction-workshop-description/">See Ben's Class</a>
