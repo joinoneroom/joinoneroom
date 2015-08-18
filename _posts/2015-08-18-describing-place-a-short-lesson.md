@@ -4,7 +4,7 @@ layout: post
 author: Ben Obler
 image: ben_obler.jpg
 ---
-![Picture of a flying plane]()
+![Picture of a flying plane](/img/plane_over_beach.jpg)
 
 Describing place is a great entry point for enhancing description, because it represents that elemental dichotomy, the writer and the outside world. The observer and the observed. The interior mind brought to bear on the exterior world. This is the essence of writing, and bridging this gap, to the extent that it is a gap, is one of the fundamental tasks of the writer. 
 
