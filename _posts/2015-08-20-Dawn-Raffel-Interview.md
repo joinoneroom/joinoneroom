@@ -5,7 +5,7 @@ author: Dawn Raffel
 image: Dawn_Raffel.jpg
 ---
 
-![Picture of Dawn's book, The Secret Life of Objects](/img/Dawn_Raffel_Book_Cover.jpg)
+![Picture of writers at a coffeeshop.](/img/coffee_notes.jpg)
 
 ## Your fiction career is successful—among other recognitions, you were anthologized in *The Anchor Book of New American Short Stories*—and you seem to love the short story form. What made you decide to write a memoir? When did you come to the idea?
 
