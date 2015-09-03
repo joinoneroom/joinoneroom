@@ -1,6 +1,6 @@
 <a href={{ course.courseUrl }}>
   <div class="course-card">
-    <div class="course-image" style="background:url({{ course.imageUrl }}) center center;">
+    <div style="background:url({{ course.imageUrl }}) center center; background-size: cover; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover;" class="course-image">
       <div class="title-container">
         <div class="title-outer">
           <div class="title-inner">
@@ -12,7 +12,7 @@
       </div>
     </div>
     <div class="info">
-      <p class="f5 lh-copy">
+      <p class="f5 lh-copy tl">
         {{ course.description }}
       </p>
       <div class="teacher-info">

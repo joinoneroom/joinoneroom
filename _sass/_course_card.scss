@@ -17,7 +17,7 @@
     -moz-transition: box-shadow 0.1s linear;
     -o-transition: box-shadow 0.1s linear;
     -ms-transition: box-shadow 0.1s linear;
-    transition: box-shadow 0.1s linear; 
+    transition: box-shadow 0.1s linear;
 
     .course-image .title-container {
       background-color: rgba(0, 0, 0, 0.35);
@@ -30,9 +30,7 @@
   }
 
   .course-image {
-    background: url() center center;
     background-repeat: no-repeat;
-    background-size: cover;
     height: 8em;
 
     // We need this table stuff to dynamically center the title vertically
