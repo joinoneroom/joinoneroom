@@ -1,20 +1,24 @@
-- name: "Advanced Fiction Workshop: Description"
-  courseUrl: https://app.joinoneroom.com/course/advanced-fiction-workshop-description/?utm_medium=post&utm_source=homepage&utm_campaign=2015-09-push
-  imageUrl: https://app.joinoneroom.com/img/courses/bird-flying-pelican.jpg
-  description: Rope and wrangle the power of description in an Advanced Fiction Workshop with Benjamin Obler. Watch his video intro to the class; we dare you not to be charmed.
-  teacherName: Ben Obler
-  teacherPicUrl: http://i2.wp.com/www.benobler.com/wp-content/uploads/2015/07/Obler.jpg
+- name: "Backyard Birding"
+  courseUrl: https://app.joinoneroom.com/course/backyard-birding/?utm_medium=featured-class&utm_source=homepage&utm_campaign=5-10-20-push
+  imageUrl: https://app.joinoneroom.com/img/courses/morning-orange-duck.jpg
+  description: Be the life of the BBQ with your slick bird identification skills.
 
-- name: "Jumpstarting the Creative Process"
-  courseUrl: https://app.joinoneroom.com/course/jumpstarting-the-creative-process/?utm_medium=post&utm_source=homepage&utm_campaign=2015-09-push
-  imageUrl: https://app.joinoneroom.com/img/courses/hand-vintage-old-book.jpg
-  description: Writing is as much about process as it is about technique. This course will guide you through a diverse selection of writing prompts, processes, and revision techniques. We’ll look for new ways to ...
-  teacherName: Jennifer Duffield White
-  teacherPicUrl: https://scontent.fsnc1-1.fna.fbcdn.net/hphotos-xpa1/v/t1.0-9/735232_10151350870072460_1986717913_n.jpg?oh=5dbbe573a66f6e066a22555986e5ee91&oe=56217DA6
+- name: "Ergonomics and Mobility for the Office"
+  courseUrl: https://app.joinoneroom.com/course/ergonomics-and-mobility-for-the-office/?utm_medium=featured-class&utm_source=homepage&utm_campaign=5-10-20-push
+  imageUrl: https://app.joinoneroom.com/img/courses/posture-stats.jpg
+  description: Un-slouch and regain mobility you never knew you lost.
 
-- name: "Radical Rewriting & Reclamation"
-  courseUrl: https://app.joinoneroom.com/course/radical-rewriting-reclamation/?utm_medium=post&utm_source=homepage&utm_campaign=2015-09-push
-  imageUrl: https://app.joinoneroom.com/img/courses/radical-rewriting.jpg
-  description: Pull that play out of the drawer and explode, cut, paste, and generally get radical. Reclaim that drafted play with Liz Duffy Adams in her class Radical Rewriting and Reclamation.
-  teacherName: Liz Duffy Adams
-  teacherPicUrl: https://raw.githubusercontent.com/joinoneroom/joinoneroom.github.io/0fa1eab111ad792288ad38371e32e4feeb1f7813/img/Liz_Duffy_Adams.jpg
+- name: "Mindfulness Meditation for Beginners"
+  courseUrl: https://app.joinoneroom.com/course/mindfulness-meditation-for-beginners/?utm_medium=featured-class&utm_source=homepage&utm_campaign=5-10-20-push
+  imageUrl: https://app.joinoneroom.com/img/courses/rocks-coast-stones-tranquil.jpg
+  description: Practice what Jon Kabat-Zinn calls "nonjudgmental awareness of the present moment." Because there is literally nothing else but the present moment.
+
+- name: "Songwriting: Creating the Hook"
+  courseUrl: https://app.joinoneroom.com/course/songwriting-creating-the-hook/?utm_medium=featured-class&utm_source=homepage&utm_campaign=5-10-20-push
+  imageUrl: https://app.joinoneroom.com/img/courses/hands-music-musician-piano.jpg
+  description: Is the crowd singing when you play your jams? Discover what will get them clapping and singing along.
+
+- name: "Vim, One Keystroke at a Time"
+  courseUrl: https://app.joinoneroom.com/course/vim-one-keystroke-at-a-time/?utm_medium=featured-class&utm_source=homepage&utm_campaign=5-10-20-push
+  imageUrl: https://app.joinoneroom.com/img/courses/code-computer-typing.jpg
+  description: Mesmerize innocent bystanders with your magically efficient text editing skills.
