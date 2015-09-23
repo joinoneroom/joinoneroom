@@ -108,6 +108,8 @@
 .btn--black:visited {
   color: #fff;
   background-color: #000;
+  border: 1px solid lighten(#000, 10);
+  box-shadow: 0px 2px 0px 1px lighten(#000, 5);
 }
 
 .btn--black:hover {
@@ -135,6 +137,8 @@
   background-color: #f0f0f0;
   border-color: #f0f0f0;
   color: #555;
+  border: 1px solid lighten(#f0f0f0, 5);
+  box-shadow: 0px 2px 0px 1px darken(#f0f0f0, 5);
 }
 
 .btn--gray:hover {
@@ -195,16 +199,18 @@
 .btn--blue:visited {
   color: #fff;
   background-color: $aqua;
+  border: 1px solid lighten($aqua, 5);
+  box-shadow: 0px 2px 0px 1px darken($aqua, 10);
 }
 
 .btn--blue:hover {
   color: #fff!important;
-  background-color: darken($aqua, 20%);
+  background-color: darken($aqua, 10);
 }
 
 .btn--blue:active {
   color: #fff;
-  background-color:  darken($aqua, 25%);
+  background-color:  darken($aqua, 10);
 }
 
 .btn--green,
@@ -212,16 +218,18 @@
 .btn--green:visited {
   color: #fff;
   background-color: $green;
+  border: 1px solid lighten($green, 5);
+  box-shadow: 0px 2px 0px 1px darken($green, 5);
 }
 
 .btn--green:hover {
   color: #fff!important;
-  background-color: darken($green, 20%);
+  background-color: darken($green, 10);
 }
 
 .btn--green:active {
   color: #fff;
-  background-color:  darken($green, 25%);
+  background-color:  darken($green, 10);
 }
 
 /* Keep it mobile-first and responsive */
@@ -231,4 +239,3 @@
     max-width: 16em!important;
   }
 }
-
