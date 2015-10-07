@@ -1,29 +1,16 @@
 - name: "Backyard Birding"
-  courseUrl: https://app.joinoneroom.com/course/backyard-birding/?utm_medium=featured-class&utm_source=homepage&utm_campaign=5-10-20-push
+  courseUrl: https://app.joinoneroom.com/course/backyard-birding/?utm_medium=featured-class&utm_source=homepage&utm_campaign=october
   imageUrl: https://app.joinoneroom.com/img/courses/morning-orange-duck.jpg
   description: Be the life of the BBQ with your slick bird identification skills.
 
-- name: "Ergonomics and Mobility for the Office"
-  courseUrl: https://app.joinoneroom.com/course/ergonomics-and-mobility-for-the-office/?utm_medium=featured-class&utm_source=homepage&utm_campaign=5-10-20-push
-  imageUrl: https://app.joinoneroom.com/img/courses/posture-stats.jpg
-  description: Un-slouch and regain mobility you never knew you lost.
+- name: "Where to Hide the Body: Starting a Mystery"
+  courseUrl: https://app.joinoneroom.com/course/where-to-hide-the-body-starting-a-mystery/?utm_medium=featured-class&utm_source=homepage&utm_campaign=october
+  imageUrl: https://static.pexels.com/photos/4827/nature-forest-trees-fog-medium.jpeg
+  description: Often in crime novels, the setting is as much a character as the hero or villain. It’s impossible to imagine L.A. Confidential as Louisville Confidential or Sherlock Holmes living anywhere besides...
 
-- name: "Interviewing for Jobs: No More Mister Nervous Guy"
-  courseUrl: https://app.joinoneroom.com/course/interviewing-for-jobs-no-more-mister-nervous-guy/?utm_medium=featured-class&utm_source=homepage&utm_campaign=5-10-20-push
-  imageUrl: https://static.pexels.com/photos/154/people-apple-iphone-writing-medium.jpg
-  description: Stop dreading job interviews and dazzle those HR-types.
+- name: "Poetry Writing: Images, Literal and Figurative"
+  courseUrl: https://app.joinoneroom.com/course/poetry-writing-working-with-images-literal-and-figurative/?utm_medium=featured-class&utm_source=homepage&utm_campaign=october
+  imageUrl: https://raw.githubusercontent.com/joinoneroom/joinoneroom.github.io/1f1b1dbec25b4cbaaf4dedbf65cd8b4713118f0b/img/DeathtoStock_Wired4.jpg
+  description: Learn how to harness the power of both journalistic imagery and archetypal metaphor to transmit true and beautiful sensory data to readers of your poetry. 
 
-- name: "Mindfulness Meditation for Beginners"
-  courseUrl: https://app.joinoneroom.com/course/mindfulness-meditation-for-beginners/?utm_medium=featured-class&utm_source=homepage&utm_campaign=5-10-20-push
-  imageUrl: https://app.joinoneroom.com/img/courses/rocks-coast-stones-tranquil.jpg
-  description: Practice what Jon Kabat-Zinn calls "nonjudgmental awareness of the present moment." Because there is literally nothing else but the present moment.
 
-- name: "Songwriting: Creating the Hook"
-  courseUrl: https://app.joinoneroom.com/course/songwriting-creating-the-hook/?utm_medium=featured-class&utm_source=homepage&utm_campaign=5-10-20-push
-  imageUrl: https://app.joinoneroom.com/img/courses/hands-music-musician-piano.jpg
-  description: Is the crowd singing when you play your jams? Discover what will get them clapping and singing along.
-
-- name: "Vim, One Keystroke at a Time"
-  courseUrl: https://app.joinoneroom.com/course/vim-one-keystroke-at-a-time/?utm_medium=featured-class&utm_source=homepage&utm_campaign=5-10-20-push
-  imageUrl: https://app.joinoneroom.com/img/courses/code-computer-typing.jpg
-  description: Mesmerize innocent bystanders with your magically efficient text editing skills.
