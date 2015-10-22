@@ -1,16 +1,16 @@
-- name: "Backyard Birding"
-  courseUrl: https://app.joinoneroom.com/course/backyard-birding/?utm_medium=featured-class&utm_source=homepage&utm_campaign=october
-  imageUrl: https://app.joinoneroom.com/img/courses/morning-orange-duck.jpg
-  description: Be the life of the BBQ with your slick bird identification skills.
-
-- name: "Where to Hide the Body: Starting a Mystery"
-  courseUrl: https://app.joinoneroom.com/course/where-to-hide-the-body-starting-a-mystery/?utm_medium=featured-class&utm_source=homepage&utm_campaign=october
-  imageUrl: https://static.pexels.com/photos/4827/nature-forest-trees-fog-medium.jpeg
-  description: Often in crime novels, the setting is as much a character as the hero or villain. It’s impossible to imagine L.A. Confidential as Louisville Confidential or Sherlock Holmes living anywhere besides...
-
-- name: "Poetry Writing: Images, Literal and Figurative"
-  courseUrl: https://app.joinoneroom.com/course/poetry-writing-working-with-images-literal-and-figurative/?utm_medium=featured-class&utm_source=homepage&utm_campaign=october
+- name: "Poetry Writing: 25 Little Poetry Projects"
+  courseUrl: https://app.joinoneroom.com/course/poetry-writing-25-little-poetry-projects/?utm_medium=featured-class&utm_source=homepage&utm_campaign=october
   imageUrl: https://raw.githubusercontent.com/joinoneroom/joinoneroom.github.io/1f1b1dbec25b4cbaaf4dedbf65cd8b4713118f0b/img/DeathtoStock_Wired4.jpg
-  description: Learn how to harness the power of both journalistic imagery and archetypal metaphor to transmit true and beautiful sensory data to readers of your poetry. 
+  description: We'll embark on Jim Simmerman's wild and wonderful "25 little poetry projects" as a way to experience the power of mixing various...
+
+- name: "Doing More with Fonts and Typography"
+  courseUrl: https://app.joinoneroom.com/course/doing-more-with-fonts-and-typography/?utm_medium=featured-class&utm_source=homepage&utm_campaign=october
+  imageUrl: https://static.pexels.com/photos/6469/red-hands-woman-creative-large.jpg
+  description: This class will show you how to choose the right typeface or font to express exactly what you need. We'll cover letterforms, typography, font personalities, and a wily history of...
+
+- name: "Life Skills for Artists: Managing your Time"
+  courseUrl: https://app.joinoneroom.com/course/life-skills-for-artists-managing-your-time/?utm_medium=featured-class&utm_source=homepage&utm_campaign=october
+  imageUrl: https://images.unsplash.com/photo-1444069788560-6ae1deb4c0d4?q=80&fm=jpg&s=5941aa7e31b488329d8af885e4761b83
+  description: Time management is important for everyone, but for artists in particular, it can be a great challenge. But it is possible to be productive, healthy, and sane. We’ll talk about putting a price on... 
 
 
